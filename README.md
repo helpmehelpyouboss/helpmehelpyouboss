@@ -1,2 +1,2 @@
-# Comment-Box-As-On-Youtube
- Design And Code a Comment Box As On Youtube || Vanilla Javascript
+# Help me help you
+ Website to come up with ideas how a single person (me) may help the most people.
